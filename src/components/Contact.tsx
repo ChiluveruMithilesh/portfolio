@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Send, Github, Linkedin, Phone, Mail } from 'lucide-react';
 import { PERSONAL_INFO } from '../constants';
 

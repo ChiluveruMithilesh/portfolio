@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Tilt } from 'react-tilt';
 import { PROJECTS } from '../constants';
 

@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { EDUCATION, ACHIEVEMENTS } from '../constants';
 import { Award, BookOpen, Calendar, GraduationCap } from 'lucide-react';
 
