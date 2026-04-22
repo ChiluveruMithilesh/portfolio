@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { PERSONAL_INFO } from '../constants';
 import { Github, Linkedin, Mail, Download, ExternalLink } from 'lucide-react';
 
